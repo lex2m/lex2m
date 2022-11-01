@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @lex2m
+- 👀 I’m interested in HTML
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on HTML
+- 📫 How to reach me ;
+- Instagram : instagram.com/ondersaricayir 
+- G-mail : onderfaruksaricayir@gmail.com
+- LinkedIn: https://www.linkedin.com/in/%C3%B6nder-faruk-sari%C3%A7ayir-703376250/
