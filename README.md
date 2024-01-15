@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Namaste</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <br>
-- 🌱 I’m currently learning <b>Laravel, Core PHP, BootStrap5, HTML5</b>
+ - 🌱 I’m currently learning <b>Laravel, Core PHP, BootStrap5, HTML5</b>
 
 - 👯 I’m looking to collaborate on **website with php**
 
