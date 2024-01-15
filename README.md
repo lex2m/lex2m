@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋! My name is Namaste and I'm a Software Engineer, from Turkey</h2>
+<h2 align="center">Hi 👋! My name is Namaste, from Turkey</h2>
 
 ###
 
